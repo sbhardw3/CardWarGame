@@ -1,0 +1,10 @@
+<h3>CARD WAR GAME</h3>
+
+
+In a card game, we have 52 cards in a deck, consisting of four suits, such as Spades, Hearts, Diamonds, Clubs. We use the first letter to represent each suit. 
+Namely, we have four suits in a deck: s, h, d, c. In each suit, we have 13 cards, being ranked from low to high:  Ace, 2, 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, King. 
+We use a single letter to represent each rank. The first rank in a suit is a, followed by 2, 3, 4, 5, 6,7, 8, 9, t,  j, q, and k. Each unique card is distinguished by two letters: the first letter as its rank and the second letter as its suit. 
+For example, "7h" represents a card of rank 7 of the Hearts suit.In the card game War, there are two players. Every player wants to win all of the cards. Whoever wins all the cards will be the game-winner.
+At the beginning of the War game, the deck is divided evenly, and each player receives 26 cards, dealt one at a time. Player 1 starts first. Each player places their pile of cards in their hands and the earliest entering card will be taken out first.
+Each player takes a card out and puts it in a stack in front of him on the table and the player with the higher card takes both cards and inserts them into the end of the pile in his hands. If the cards are the same rank, it is a "War" (two 9s, for example), also called a tie. Once the "War" occurs, each player needs to take extra four cards out and put them on the stack/pile in front of him. The last card of the stack in front of him will be used for comparison. The player with the higher cards takes both stacks (one stack by one stack, always, player 1's stack and then player 2's stack) in front of them (in total, ten cards). If the turned-up cards are again the same rank, each player takes four more cards out of the piles in his hands and puts them in the stack in front of him. The player with the higher card takes these two stacks, one stack-by-one stack in order, and in total, it consists of all 18 cards, and so on.
+The game ends when one player has won all the cards (namely the other player runs out of cards).
